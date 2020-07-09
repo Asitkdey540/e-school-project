@@ -39,20 +39,23 @@ h6{
     color: #FD511A;
     font-weight: 500;
 }
-h3{
-    text-align: center;
-    font-weight: bold;
-    font-size: 20px;
-    box-sizing: content-box;
-}
+
 p{
     color: dimgray;
 }
 h5{
     text-align: center;
 }
+
+h3{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    box-sizing: content-box;
+}
 .categories img{
     width: 60px;
+    padding: 6px;
 }
 .col-md-3{
     text-align: center;
@@ -60,10 +63,12 @@ h5{
 }
 .learn-any{
     background-color: #F0FFF0;
+    padding: 6px;
 }
 .learn-img{
     background-color: #fff;
-    box-shadow: 5px 5px 10px lightgray
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 6px;
 }
 .sign-in-btn{
     background-color: #21B573;
